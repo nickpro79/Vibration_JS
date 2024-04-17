@@ -8,7 +8,7 @@ However, it doesn't seem like we can vary the intensity of the vibration. Maybe 
 
 MIT licensed; feel free to try and refine this a bit, but it's kind of fun already:
 
-Demo: https://jywarren.github.io/buzzview
+Demo: https://nickpro79.github.io/Vibration_JS/
 
 Requires: jQuery (run `bower install`)
 
